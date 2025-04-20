@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en Java que implementa un CRUD (Create, Read, Update, Delete) para la gestión de clientes, utilizando el patrón de arquitectura MVC (Modelo-Vista-Controlador) y almacenamiento en archivos CSV.
 
+<img src="https://media.licdn.com/dms/image/v2/D4E2DAQEPZ4E5Qh11Ig/profile-treasury-image-shrink_800_800/B4EZZEpxD6HEAY-/0/1744908522124?e=1745514000&v=beta&t=6XfOI1QI4CcnPhjeT-M6G6G3AAF84q9twzEjXkixnFA" width="100%" height="500" alt="App"/>
+
 ## Características
 
 - Interfaz gráfica intuitiva desarrollada con Swing
